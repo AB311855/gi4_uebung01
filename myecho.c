@@ -2,5 +2,6 @@
 
 int main(int argc, char* argv[], char* envp[]) 
 {
+	printf("hallo da draußen\n");
   return 0;
 }
